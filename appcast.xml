@@ -17,7 +17,7 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/seapancakes1/DimDown/releases/download/v1.1/DimDown.dmg"
+                url="https://github.com/seapancakes1/dimdown-updates/releases/download/v1.1/DimDown.dmg"
                 sparkle:edSignature="EmU9RAG6NMCitLWEahvrXgRVooVAfL9tHzBdrlZuILiOToWxkNG7DmYrq6VhM75I9C4RVqEDR9viPxe+eSocDA=="
                 length="4175155"
                 type="application/x-apple-diskimage"/>
