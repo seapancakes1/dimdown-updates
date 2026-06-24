@@ -9,6 +9,21 @@
         <!-- Releases are prepended here by release.sh -->
         <item>
             <title>Version 1.1.6</title>
+            <pubDate>Wed, 24 Jun 2026 09:54:25 -0400</pubDate>
+            <sparkle:releaseNotesLink>
+                https://seapancakes1.github.io/dimdown-updates/release-notes/1.1.6.html
+            </sparkle:releaseNotesLink>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/seapancakes1/dimdown-updates/releases/download/v1.1.6/DimDown.dmg"
+                sparkle:edSignature="FTDbXKDrQcw1RfH2Lke2CKlBFNhBY8RfVg3yGOt+DH50mT/daDzY5WcdiShe7DzuE0HRn2aNk1q92RMxGH2LDg=="
+                length="3953001"
+                type="application/x-apple-diskimage"/>
+        </item>
+        <item>
+            <title>Version 1.1.6</title>
             <pubDate>Tue, 23 Jun 2026 10:27:25 -0400</pubDate>
             <sparkle:releaseNotesLink>
                 https://seapancakes1.github.io/dimdown-updates/release-notes/1.1.6.html
